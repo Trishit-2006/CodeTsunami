@@ -1,2 +1,2 @@
-# * **CodeTsunami** *
-## * **Projects uploaded for downloading.** *
+# *CodeTsunami*
+## **Projects uploaded for downloading.**
